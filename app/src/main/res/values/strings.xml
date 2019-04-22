@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LifecycleApp</string>
+    <string name="push_me">Push Me!!!</string>
+    <string name="second_activity">Second Activity</string>
+  <string name="ping">PING</string>
+  <string name="show_picture">SHOW PICTURE</string>
+</resources>
